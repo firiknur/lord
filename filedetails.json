@@ -2,7 +2,7 @@
   "ovpn_file":[
     {"id":0,"file":"dev tun
 proto udp
-remote 211.201.73.86 1731
+remote 219.100.37.79 1195
 ;http-proxy-retry
 ;http-proxy [proxy server] [proxy port]
 cipher AES-128-CBC
@@ -100,7 +100,7 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 "},
      {"id":1,"file":"dev tun
 proto udp
-remote 112.184.251.151 1432
+remote 174.6.4.138 1415
 ;http-proxy-retry
 ;http-proxy [proxy server] [proxy port]
 cipher AES-128-CBC
@@ -197,8 +197,8 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 </key>
 "},
      {"id":2,"file":"dev tun
-proto udp
-remote 153.144.10.126 1464
+proto tcp
+remote 219.100.37.82 443
 ;http-proxy-retry
 ;http-proxy [proxy server] [proxy port]
 cipher AES-128-CBC
