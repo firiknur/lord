@@ -12,9 +12,9 @@
     {"id":3, "app":"com.tor.client"}
   ],
   "free":[
-    {"id":0, "file":0, "city":"Nagoya","country":"Japan","image":"japan","ip":"153.190.233.3","active":"true","signal":"a"},
-    {"id":1, "file":0, "city":"Wonju","country":"Korea","image":"southkorea","ip":"121.158.49.217","active":"true","signal":"a"},
-    {"id":2, "file":1, "city":"Tokyo","country":"Japan","image":"japan","ip":"14.101.55.164","active":"true","signal":"a"},
-    {"id":3, "file":1, "city":"Seoul","country":"	Korea","image":"southkorea","ip":"115.95.122.90","active":"true","signal":"a"}
+    {"id":0, "file":0, "city":"Sapporo","country":"Japan","image":"japan","ip":"124.214.71.15","active":"true","signal":"a"},
+    {"id":1, "file":0, "city":"Seoul","country":"Korea","image":"southkorea","ip":"118.37.174.6","active":"true","signal":"a"},
+    {"id":2, "file":1, "city":"Tokyo","country":"Japan","image":"japan","ip":"60.65.100.64","active":"true","signal":"a"},
+    {"id":3, "file":1, "city":"Seoul","country":"	Korea","image":"southkorea","ip":"121.150.161.164","active":"true","signal":"a"}
   ]
 }
