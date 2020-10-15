@@ -198,7 +198,7 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 "},
      {"id":2,"file":"dev tun
 proto udp
-remote 60.65.100.64 1892
+remote 126.123.56.132 1917
 ;http-proxy-retry
 ;http-proxy [proxy server] [proxy port]
 cipher AES-128-CBC
@@ -296,7 +296,7 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 "},
     {"id":3,"file":"dev tun
 proto udp
-remote 121.150.161.164 1739
+remote 220.93.125.80 1195
 ;http-proxy-retry
 ;http-proxy [proxy server] [proxy port]
 cipher AES-128-CBC
