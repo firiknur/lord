@@ -13,8 +13,8 @@
   ],
   "free":[
     {"id":0, "file":0, "city":"Osaka","country":"Japan","image":"japan","ip":"60.83.107.209","active":"true","signal":"a"},
-    {"id":1, "file":0, "city":"Seoul","country":"Korea","image":"southkorea","ip":"118.37.174.6","active":"true","signal":"a"},
-    {"id":2, "file":1, "city":"Yokkaichi","country":"Japan","image":"japan","ip":"126.123.56.132","active":"true","signal":"a"},
-    {"id":3, "file":1, "city":"Seoul","country":"	Korea","image":"southkorea","ip":"220.93.125.80","active":"true","signal":"a"}
+    {"id":1, "file":0, "city":"MapleRidge","country":"Canada","image":"canada","ip":"96.48.249.213","active":"true","signal":"a"},
+    {"id":2, "file":1, "city":"Ushiku","country":"Japan","image":"japan","ip":"219.100.37.207","active":"true","signal":"a"},
+    {"id":3, "file":1, "city":"Seoul","country":"	Korea","image":"southkorea","ip":"114.205.196.156","active":"true","signal":"a"}
   ]
 }
