@@ -2,9 +2,7 @@
   "ovpn_file":[
     {"id":0,"file":"dev tun
 proto tcp
-remote 219.100.37.75 443
-;http-proxy-retry
-;http-proxy [proxy server] [proxy port]
+remote 60.121.201.111 1477
 cipher AES-128-CBC
 auth SHA1
 resolv-retry infinite
@@ -100,9 +98,7 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 "},
      {"id":1,"file":"dev tun
 proto udp
-remote 219.100.37.164 1195
-;http-proxy-retry
-;http-proxy [proxy server] [proxy port]
+remote 39.111.86.43 1195
 cipher AES-128-CBC
 auth SHA1
 resolv-retry infinite
@@ -197,10 +193,8 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 </key>
 "},
      {"id":2,"file":"dev tun
-proto udp
-remote 112.168.144.138 1704
-;http-proxy-retry
-;http-proxy [proxy server] [proxy port]
+proto tcp
+remote 219.100.37.76 443
 cipher AES-128-CBC
 auth SHA1
 resolv-retry infinite
@@ -295,10 +289,8 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 </key>
 "},
     {"id":3,"file":"dev tun
-proto udp
-remote 121.172.24.112 1195
-;http-proxy-retry
-;http-proxy [proxy server] [proxy port]
+proto tcp
+remote 219.100.37.163 443
 cipher AES-128-CBC
 auth SHA1
 resolv-retry infinite
@@ -393,10 +385,8 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 </key>
 "},
     {"id":4,"file":"dev tun
-proto udp
-remote 211.220.13.172 1940
-;http-proxy-retry
-;http-proxy [proxy server] [proxy port]
+proto tcp
+remote 219.100.37.221 443
 cipher AES-128-CBC
 auth SHA1
 resolv-retry infinite
@@ -491,10 +481,8 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 </key>
 "},
     {"id":5,"file":"dev tun
-proto udp
-remote 220.116.126.104 1195
-;http-proxy-retry
-;http-proxy [proxy server] [proxy port]
+proto tcp
+remote 27.94.124.169 1832
 cipher AES-128-CBC
 auth SHA1
 resolv-retry infinite
