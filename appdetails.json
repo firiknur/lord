@@ -12,11 +12,7 @@
     {"id":3, "app":"com.tor.client"}
   ],
   "free":[
-    {"id":0, "file":0, "city":"Tokyo","country":"Japan","image":"japan","ip":"60.121.201.111","active":"true","signal":"a"},
-    {"id":1, "file":0, "city":"Hino","country":"Japan","image":"japan","ip":"39.111.86.43","active":"true","signal":"a"},
-    {"id":2, "file":0, "city":"Ushiku","country":"Japan","image":"japan","ip":"219.100.37.76","active":"true","signal":"a"},
-    {"id":3, "file":0, "city":"Ibaraki","country":"Japan","image":"japan","ip":"219.100.37.163","active":"true","signal":"a"},
-    {"id":4, "file":0, "city":"Naes","country":"Korea","image":"southkorea","ip":"219.100.37.221","active":"true","signal":"a"},
-    {"id":5, "file":0, "city":"Nowon-gu","country":"Korea","image":"southkorea","ip":"27.94.124.169","active":"true","signal":"a"}
+    {"id":0, "file":0, "city":"Nagoya","country":"Japan","image":"japan","ip":"220.107.24.240","active":"true","signal":"a"},
+    {"id":1, "file":0, "city":"Tokyo","country":"Japan","image":"japan","ip":"220.210.167.17","active":"true","signal":"a"},
   ]
 }
