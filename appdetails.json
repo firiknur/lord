@@ -14,5 +14,6 @@
   "free":[
     {"id":0, "file":0, "city":"Nagoya","country":"Japan","image":"japan","ip":"220.107.24.240","active":"true","signal":"a"},
     {"id":1, "file":0, "city":"Tokyo","country":"Japan","image":"japan","ip":"220.210.167.17","active":"true","signal":"a"},
+    {"id":2, "file":0, "city":"Tokyo","country":"Japan","image":"japan","ip":"118.240.245.140","active":"true","signal":"a"},
   ]
 }
