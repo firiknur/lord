@@ -1,10 +1,8 @@
 {
   "ovpn_file":[
     {"id":0,"file":"dev tun
-proto udp
-remote 115.38.17.110 1766
-;http-proxy-retry
-;http-proxy [proxy server] [proxy port]
+proto tcp
+remote 93.79.204.137 995
 cipher AES-128-CBC
 auth SHA1
 resolv-retry infinite
@@ -99,10 +97,8 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 </key>
 "},
     {"id":1,"file":"dev tun
-proto udp
-remote 211.208.187.180 1754
-;http-proxy-retry
-;http-proxy [proxy server] [proxy port]
+proto tcp
+remote 217.174.230.202 1572
 cipher AES-128-CBC
 auth SHA1
 resolv-retry infinite
@@ -197,10 +193,8 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 </key>
 "},
     {"id":2,"file":"dev tun
-proto udp
-remote 115.176.121.250 1860
-;http-proxy-retry
-;http-proxy [proxy server] [proxy port]
+proto tcp
+remote 95.70.74.193 1274
 cipher AES-128-CBC
 auth SHA1
 resolv-retry infinite
