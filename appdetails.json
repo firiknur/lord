@@ -12,8 +12,8 @@
     {"id":3, "app":"com.tor.client"}
   ],
   "free":[
-    {"id":0, "file":0, "city":"Kherson","country":"Ukrain","image":"ukrain","ip":"93.79.204.137","active":"true","signal":"a"},
-    {"id":1, "file":0, "city":"Ashgabat","country":"Turkmenistan","image":"turkmenistan","ip":"217.174.230.202","active":"true","signal":"a"},
-    {"id":2, "file":0, "city":"Birakan","country":"Russian","image":"russian","ip":"95.70.74.193","active":"true","signal":"a"},
+    {"id":0, "file":0, "city":"Tokyo","country":"Japan","image":"japan","ip":"147.192.15.3","active":"true","signal":"a"},
+    {"id":1, "file":0, "city":"Tokyo","country":"Japan","image":"japan","ip":"124.213.172.194","active":"true","signal":"a"},
+    {"id":2, "file":0, "city":"Seoul","country":"South Korea","image":"southkorea","ip":"121.130.138.186","active":"true","signal":"a"},
   ]
 }
