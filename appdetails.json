@@ -12,8 +12,8 @@
     {"id":3, "app":"com.tor.client"}
   ],
   "free":[
-    {"id":0, "file":0, "city":"Bremen","country":"Germany","image":"germany","ip":"77.20.23.138","active":"true","signal":"a"},
-    {"id":1, "file":0, "city":"Seoul","country":"South Korea","image":"southkorea","ip":"27.35.78.99","active":"true","signal":"a"},
-    {"id":2, "file":0, "city":"Jeju-do","country":"South Korea","image":"southkorea","ip":"116.120.206.24","active":"true","signal":"a"},
+    {"id":0, "file":0, "city":"Tokyo","country":"Japan","image":"japan","ip":"219.100.37.65","active":"true","signal":"a"},
+    {"id":1, "file":0, "city":"Nara","country":"Japan","image":"japan","ip":"139.101.146.17","active":"true","signal":"a"},
+    {"id":2, "file":0, "city":"Kwangju","country":"South Korea","image":"southkorea","ip":"121.147.116.112","active":"true","signal":"a"},
   ]
 }
