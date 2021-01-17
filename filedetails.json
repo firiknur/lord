@@ -1,6 +1,7 @@
 {
   "ovpn_file":[
-    {"id":0,"file":"dev tun
+    {"id":0,"file":"client
+dev tun
 proto udp
 sndbuf 0
 rcvbuf 0
@@ -109,8 +110,9 @@ a481c2ab66f8aa307a9affdd4c528068
 f7887d1545106de0276c0b24a3dde5c2
 -----END OpenVPN Static key V1-----
 </tls-auth>
-     "},
-    {"id":1,"file":"dev tun
+"},
+    {"id":1,"file":"client
+dev tun
 proto udp
 sndbuf 0
 rcvbuf 0
@@ -219,5 +221,5 @@ aa3a1ceb563fda78536dd126457616a0
 96a9764bb410328688085294819c5d7b
 -----END OpenVPN Static key V1-----
 </tls-auth>
-     "}]
+"}]
 }
